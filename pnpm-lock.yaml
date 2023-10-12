@@ -93,7 +93,7 @@ dependencies:
     specifier: ^4.10.1
     version: 4.10.1(react@18.2.0)
   react-markdown:
-    specifier: '>8.0.0 <9.0.0'
+    specifier: '>8.0.0 <10.0.0'
     version: 8.0.7(@types/react@18.2.21)(react@18.2.0)
   react-time-ago:
     specifier: ^7.2.1
